@@ -1,19 +1,15 @@
-# Nam Nguyễn
+### Hi there, I'm Nam Nguyễn ✔️
 
-![Avatar]([avatar.gif](https://media.giphy.com/avatars/tontonfriends/oR1fkkiDPgSG.gif))
 
-**Java Developer** ![PRO](https://img.shields.io/badge/-PRO-blue)
 
-## Thông tin liên hệ
 
----
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF785&width=435&lines=I'm+a+backend+developer"></p>
 
-**Họ và tên:** Nguyễn Văn Nam
+- 🇻🇳 : I'm from VietNam
+- 📧 : Contact me at [namnguyen250502@gmail.com](mailto:namnguyen250502@gmail.com)
+- ❤️ : I'm passionate about:
+  - 🪐 Operating Systems (Windows & Linux)
+  - 🖥️ Website Developer
 
-**Zalo:** ![Zalo icon](zalo_icon.svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Facebook:** [Nam Nguyễn](https://www.facebook.com/nam250502/)
-
-**SDT:** 0389510507
-
----
