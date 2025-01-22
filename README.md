@@ -8,8 +8,6 @@
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [namnguyen250502@gmail.com](mailto:namnguyen250502@gmail.com)
 - ❤️ : I'm passionate about:
-  - 🪐 Operating Systems (Windows & Linux)
-  - 🖥️ Website Developer
-
+  - ...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
